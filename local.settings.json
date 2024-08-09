@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=alldata01;AccountKey=xM4DAVvTgJ7vYJy5zuZYg2f18bTS0zLzvXcWBhG+gWA9k7zj0j4S8xitHf18ywhDp6zwx5Rs7QP5Yqrbp9A/Sw==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "mkhichane_DOCUMENTDB": "AccountEndpoint=https://mkhichane.documents.azure.com:443/;AccountKey=zb927f0iZHXtvO4wLbsOWh94f2GC8xRHJ6oww53r8axGwD4ESC55tlMRvY542rhMYbyR5KX22uZsuXADAcLo5A==;"
+  }
+}
